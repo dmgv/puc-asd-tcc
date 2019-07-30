@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>Arquitetura.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>571429728.26361501</real>
+				<key>version</key>
+				<dict>
+					<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+					<integer>19</integer>
+				</dict>
+			</dict>
+			<key>Comunicação Cliente servicor.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>571075964.58872604</real>
+				<key>version</key>
+				<dict>
+					<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+			<key>Desing Systems.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>570975278.81721199</real>
+				<key>version</key>
+				<dict>
+					<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Gerenciamento de estados.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>571075928.47881305</real>
+				<key>version</key>
+				<dict>
+					<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>React.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>570975330.40096605</real>
+				<key>version</key>
+				<dict>
+					<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>Arquitetura.md</string>
+		</array>
+		<array>
+			<string>Comunicação Cliente servicor.md</string>
+		</array>
+		<array>
+			<string>Gerenciamento de estados.md</string>
+		</array>
+		<array>
+			<string>React.md</string>
+		</array>
+		<array>
+			<string>Desing Systems.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>0a032761191759a9284273f43e396cf8714be305527501cf6e047c478f4c32aa</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
